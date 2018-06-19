@@ -67,6 +67,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="NO_NDFL2_1_399_00_05_05_01.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="npDataSet.xsc">
       <DependentUpon>npDataSet.xsd</DependentUpon>
     </None>
